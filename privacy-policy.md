@@ -26,4 +26,5 @@ Storage access (read/write) is used to save training session data and user prefe
 
 ## 6. Contact
 
-If you have any questions or concerns about this Privacy Policy, feel free to contact us via the Google Play Store and App Store review section.
+If you have any questions or concerns about this Privacy Policy, feel free to contact us at: 
+privacy.stagetracker@gmx-topmail.de
