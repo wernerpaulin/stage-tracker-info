@@ -24,7 +24,16 @@ We do **not** share any data with third parties. All processing happens locally 
 
 Storage access (read/write) is used to save training session data and user preferences locally. No data is uploaded or backed up externally by the app.
 
-## 6. Contact
+## 6. Optional Data Sharing for App Improvement
 
-If you have any questions or concerns about this Privacy Policy, feel free to contact us at: 
-privacy.stagetracker@gmx-topmail.de
+To help improve Stage Tracker and troubleshoot issues, the app may offer the option to:
+
+- Export logs related to your training sessions.
+- Share a short audio sample (up to 5 seconds) recorded at the beginning of a run.
+
+These actions are entirely **optional**. No data is ever uploaded or shared automatically. If you choose to share, the app uses your device's **standard sharing interface**, allowing you to select how and with whom the data is shared.
+
+## 7. Contact
+
+If you have any questions or concerns about this Privacy Policy, feel free to contact us at:  
+**privacy.stagetracker@gmx-topmail.de**
